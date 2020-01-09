@@ -1,2 +1,4 @@
-# cisc121-winter2020
-My classwork for CISC 121, completed during the Winter 2020 semester.
+# CISC 121 - Computer Science I (Winter 2020)
+This repository is dedicated to hosting any work that I complete for CISC 121 at Queen's University. This will include all assignments, and potentially some practice work.
+
+Public posting of this repository was reserved until the course had been completed, in accordance with Queen's Academic Integrity Policy.
